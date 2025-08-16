@@ -15,7 +15,4 @@ I created a simple static website hosted on **Amazon S3** and distributed with *
 ## 🔹 Files
 - `index.html` → main webpage with a simple "Hello World" message.
 
-## 🔹 Next Steps
-- Add CSS/JS to improve the page.
-- Connect a custom domain with Route 53.
-- Experiment with versioning and logging in S3.
+

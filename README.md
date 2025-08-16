@@ -13,6 +13,6 @@ I created a simple static website hosted on **Amazon S3** and distributed with *
 🌍 Website available at: [https://d2l3f9671h40lr.cloudfront.net](https://d2l3f9671h40lr.cloudfront.net)
 
 ## 🔹 Files
-- `index.html` → main webpage with a simple "Hello World" message.
+- `index.html` → main webpage with a simple "HELLO AWS!" message.
 
 
